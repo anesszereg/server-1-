@@ -1,0 +1,20 @@
+{
+  "name": "server(1)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "is-empty": "^1.2.0",
+    "mongoose": "^6.3.4",
+    "validator": "^13.7.0"
+  }
+}
